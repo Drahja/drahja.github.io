@@ -1,5 +1,5 @@
 ---
-title: TEMPLATE 
+title: Test Warning 
 description: >-
   [comment]: <> (Precedes Date & Author -- Good for Subheadings)
 author: cotes
