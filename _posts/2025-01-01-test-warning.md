@@ -1,6 +1,5 @@
 ---
-title: Test Warning 
-author: cotes
+title: Test Warning
 date: 2025-01-01 14:10:00 -0600
 categories: [MAIN, Sub]
 tags: [lowercase]
