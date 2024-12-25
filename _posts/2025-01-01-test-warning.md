@@ -1,7 +1,7 @@
 ---
 title: Test Warning
 date: 2025-01-01 14:10:00 -0600
-categories: [MAIN, Sub]
+categories: [Main, Sub]
 tags: [lowercase]
 pin: true
 ---
