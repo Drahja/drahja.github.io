@@ -15,19 +15,19 @@ Words Lets see this play out properly
 
 ## SECTION HEADING 
 
-Words
+ Words
 
-  ### SUB HEADING 1
+### SUB HEADING 1
 
-  Words
+ Words
 
-    #### SUB HEADING 2 
+#### SUB HEADING 2 
 
-    Words
+ Words
 
-      ##### SUB HEADING 3 (Not in Contents)
+##### SUB HEADING 3 (Not in Contents)
 
-      Words
+ Words
 
 ## Lists
 
@@ -81,7 +81,7 @@ Words
 Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
 
-###$ Reverse Footnote
+#### Reverse Footnote
 
 [^footnote]: The footnote source
 [^fn-nth-2]: The 2nd footnote source
