@@ -14,9 +14,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 𝐑ᴏʟᴇᴘʟᴀʏ 𝐑ᴇsᴏᴜʀᴄᴇ 𝐑ᴇᴘᴏsɪᴛᴏʀʏ # the main title
+title: Roleplay Resource Repository # the main title
 
-tagline: Methodology Developed from 𝟑𝟎 𝐘𝐞𝐚𝐫𝐬 of Roleplay Experience # it will display as the subtitle
+tagline: Dedicated to Roleplay Methodology for Education and Historical Preservation. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Dedicated to Roleplay Methodology for Education and Historical Preservation.
@@ -92,7 +92,7 @@ theme_mode: dark
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/test.jpg"
+avatar: "/commons/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
