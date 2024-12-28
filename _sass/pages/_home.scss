@@ -3,7 +3,7 @@
 @use '../abstracts/placeholders';
 
 #post-list {
-  margin-top: 2rem;
+  margin-top: 0;
 
   @include bp.lg {
     margin-top: 2.5rem;
