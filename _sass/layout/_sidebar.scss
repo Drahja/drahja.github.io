@@ -79,7 +79,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     @include mx.mt-mb(2.5rem);
     @extend %clickable-transition;
 
-    padding-left: 2.5rem;
+    padding-left: 1.25rem;
     padding-right: 1.25rem;
     width: 100%;
 
