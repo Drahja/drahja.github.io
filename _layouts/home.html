@@ -46,9 +46,11 @@ refactor: true
     {% assign posts = posts | push: all_normal[i] %}
   {% endfor %}
 {% endif %}
+<!-- WARNING PROMPT - START -->
 <div id="warning" class="row flex-grow-1">
 <blockquote class="prompt-danger"><p>THIS IS A TEST OF WHAT A POSSSILBE FUTURE MESSAGE PROMPT</p></blockquote>
 </div>
+<!-- WARNING PROMPT - END -->
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
     <article class="card-wrapper card">
