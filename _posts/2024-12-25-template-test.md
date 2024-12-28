@@ -3,7 +3,7 @@ title: Template Test
 description: >-
    This is a test a particular feature.
 author: cotes
-date: 2024-12-25 14:10:00 -0600
+date: 2024-12-26 14:25:30 -0600
 categories: [Main, Sub]
 tags: [lowercase, hall, love, test]
 pin: true
@@ -19,15 +19,15 @@ Words Lets see this play out properly
 
 ### SUB HEADING 1
 
- Words
+ (Opens under Section Heading)
 
 #### SUB HEADING 2 
 
- Words
+ (Opens under Section Heading 1)
 
 ##### SUB HEADING 3 (Not in Contents)
 
- Words
+ (Not Listed in Contents)
 
 ## Lists
 
