@@ -1,6 +1,7 @@
 ---
 title: Test Warning
-description: Test
+description: > An example showing the `warning` type prompt.
+{: .prompt-warning }
 author: cotes
 date: 2024-12-25 14:10:00 -0600
 categories: [Main, Sub]
