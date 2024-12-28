@@ -3,10 +3,10 @@
 @use '../abstracts/placeholders';
 
 #post-list {
-  margin-top: 0;
+  margin-top: 2rem;
 
   @include bp.lg {
-    margin-top: 2.5rem;
+    margin-top: 0;
   }
 
   .card-wrapper {
