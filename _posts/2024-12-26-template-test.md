@@ -3,10 +3,8 @@ title: Template Test
 description: >-
    This is a test a particular feature.
 author: drahja
-date: 2024-12-27 23:45:30 -0600
-categories: [Main Test, Sub Text]
-tags: [lowercase, hall, love, test]
-pin: true
+date: 2024-12-26 23:45:30 -0600
+pin: false
 ---
 
 # 📚 TITLE HEADING (Not in Contents)
