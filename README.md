@@ -19,8 +19,7 @@
 
 ><sub>☑️  𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓</sub>
 >
-> 🔹 This Repository is divided into Articles referred to as **𝐈𝐍𝐅𝐎 Files**. They are available to read in **Standard Github Format** and **Advanced HTML**; each with its own Navigation. You may switch between the two Formats using **Headers** found within each File.
-
+> 🔹 This Repository is divided into Articles referred to as **𝐈𝐍𝐅𝐎 Files**. They are available to read in **Advanced HTML** and is compatible with most Web Browsers and Phones.
 ───────────────────
 
 # 🗺️ 𝐍ᴀᴠɪɢᴀᴛɪᴏɴ 𝐇𝐔𝐁
