@@ -23,6 +23,7 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
+_layouts\_depricated
 _sass/vendors
 assets/js/dist
 _posts/templates

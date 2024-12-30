@@ -8,8 +8,8 @@
     <header>
       <h2><a href="{url}">{title}</a></h2>
       <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">
-        {categories}
-        {tags}
+        {resource-library}
+        {search-tags}
       </div>
     </header>
     <p>{snippet}</p>
@@ -28,7 +28,7 @@
       searchResultTemplate: '{{ result_elem | strip_newlines }}',
       noResultsText: '{{ not_found }}',
       templateMiddleware: function(prop, value, template) {
-        if (prop === 'categories') {
+        if (prop === 'resource-library') {
           if (value === '') {
             return `${value}`;
           } else {
