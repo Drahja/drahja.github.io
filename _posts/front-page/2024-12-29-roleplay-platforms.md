@@ -1,10 +1,7 @@
 ---
 title: <span class="cyanText">Roleplay</span> Platforms
 description: >-
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
   Where does one participate in <span class="greenText">Text-Based Adult Oriented Roleplay</span>? Are their Rules? Is there an official etiquette?
-  <!-- markdownlint-restore -->
 author: drahja
 date: 2024-12-29 18:01:00 -0600
 categories: [Repository Information, Front Page]
