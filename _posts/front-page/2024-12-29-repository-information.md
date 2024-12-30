@@ -1,5 +1,5 @@
 ---
-title: Roleplay Resource Repository 
+title: 📚 Roleplay Resource Repository 
 description: Learn about this Resourse and why it exists.
 author: drahja
 date: 2024-12-29 21:00:00 -0600
