@@ -5,7 +5,7 @@ layout: page
 
 <div id="tags" class="d-flex flex-wrap mx-xl-2">
   {% assign tags = '' | split: '' %}
-  {% for t in site.tags %}
+  {% for t in site.search-tags %}
     {% assign tags = tags | push: t[0] %}
   {% endfor %}
 
