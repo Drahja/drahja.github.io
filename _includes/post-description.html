@@ -9,7 +9,7 @@
   {{- post.description -}}
 {%- else -%}
   {%- include no-linenos.html content=post.content -%}
-  {{- content | markdownify | strip_html -}}
+  {{- content | markdownify -}}
 {%- endif -%}
 {%- endcapture -%}
 
@@ -17,3 +17,4 @@
 <!-- My Custom Text Format Block --><style>
 .bigText{font-size:1.25rem}span.smallText{font-size:.875rem}span.leftText{display:block;text-align:left}span.centerText{display:block;text-align:center}span.rightText{display:block;text-align:right}span.justifyText{display:block;text-align:justify}div.indentText{padding-left:5%}span b,strong{font-weight:bolder}small{font-size:80%}sub,sup{position:relative;font-size:75%;line-height:0;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}.message-action .bbcode{font-style:italic}.message-action .bbcode em,.message-action .bbcode i{font-style:normal}.redText{color:red}.blueText{color:#06f}.greenText{color:#0f0}.yellowText{color:#ff0}.cyanText{color:#0ff}.purpleText{color:#93f}.brownText{color:#8a6d3b}.pinkText{color:#f9c}.pinkText2{color:#d65bad} .grayText{color:#ccc}.orangeText{color:#f60}.whiteText{color:#fff}.blackText{color:#000}
 </style><!-- END FORMATING BLOCK -->
+<!--   - content | markdownify | strip_html - -->
