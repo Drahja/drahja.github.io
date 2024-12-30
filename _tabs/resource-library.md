@@ -1,5 +1,5 @@
 ---
-layout: resource-library
+layout: categories
 icon: fas fa-stream
 order: 1
 ---

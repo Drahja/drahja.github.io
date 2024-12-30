@@ -1,5 +1,5 @@
 ---
-layout: search-tags
+layout: tags
 icon: fas fa-tags
 order: 4
 ---
