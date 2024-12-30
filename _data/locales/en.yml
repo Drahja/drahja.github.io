@@ -3,8 +3,8 @@
 # ----- Commons label -----
 
 layout:
-  post: Post
-  category: Info File
+  post: Info File
+  category: Category
   tag: Search-Tag
 
 # The tabs of sidebar
@@ -84,8 +84,8 @@ df:
 # categories page
 categories:
   category_measure:
-    singular: info file
-    plural: resource library
+    singular: category
+    plural: categories
   post_measure:
-    singular: post
-    plural: posts
+    singular: info file
+    plural: info files
