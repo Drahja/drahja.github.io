@@ -8,10 +8,3 @@ tags: [advanced techniques, bombastic, climactic orgasms, creative flexibility, 
 pin: false
 media_subpath: '/posts/orgasms'
 ---
-
-## COLOR TEST
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-I am <span class="purpleText">TESTING</span> this text.
-<!-- markdownlint-restore -->
-I am <span class="purpleText">AGAIN</span> testing this text.
