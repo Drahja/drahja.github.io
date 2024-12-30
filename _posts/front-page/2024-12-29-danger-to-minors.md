@@ -1,5 +1,5 @@
 ---
-title: WARNING: Dangers to Minors
+title: WARNING Dangers to Minors
 description: Learn more of the Dangers; including but not limited to the potential Psychological Impact upon the vulnerable and uninformed.
 author: drahja
 date: 2024-12-29 4:30:00 -0600
