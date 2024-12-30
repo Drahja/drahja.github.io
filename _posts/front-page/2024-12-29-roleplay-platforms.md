@@ -9,3 +9,8 @@ tags: [adults-only, cybersex, discord, domain, dungeon, educational, erp, f-list
 pin: yes
 media_subpath: '/posts/platforms'
 ---
+
+### CODE TEST
+
+<button type="button" id="test" class="collapsible"><span class="bigText blueText">CLICK ME</span></button><span class="collcon">
+<p>AND YOU WILL SEE MORE</p></span>
