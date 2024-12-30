@@ -10,5 +10,8 @@ media_subpath: '/posts/orgasms'
 ---
 
 ## COLOR TEST
-
-I am <p style="color:red;">TESTING</p> this text.
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+I am <span class="purpleText">TESTING</span> this text.
+<!-- markdownlint-restore -->
+I am <span class="purpleText">AGAIN</span> testing this text.
