@@ -1,6 +1,6 @@
 ---
 title: <span class="cyanText">Roleplay</span> Platforms
-description: Where does one participate in <span class="purpleText">Text-Based Adult Oriented Roleplay</span>? Are their Rules? Is there an official etiquette?
+description: Where does one participate in <span class="cyanText">Text-Based Adult Oriented Roleplay</span>? Are their Rules? Is there an official etiquette?
 author: drahja
 date: 2024-12-29 18:01:00 -0600
 categories: [Repository Information, Front Page]
