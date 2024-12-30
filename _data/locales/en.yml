@@ -3,16 +3,16 @@
 # ----- Commons label -----
 
 layout:
-  post: Info File
+  post: File
   category: Category
-  tag: Search-Tag
+  tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Resource Library
-  tags: Search-Tags
+  categories: Categories
+  tags: Tags
   archives: Update History
   about: About the Author
 
@@ -87,5 +87,5 @@ categories:
     singular: category
     plural: categories
   post_measure:
-    singular: info file
-    plural: info files
+    singular: file
+    plural: files
