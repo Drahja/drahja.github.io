@@ -190,7 +190,7 @@ var i;
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var content = this.nextElementSibling;
+    var collcon = this.nextElementSibling;
     if (collcon.style.display === "block") {
       collcon.style.display = "none";
     } else {
