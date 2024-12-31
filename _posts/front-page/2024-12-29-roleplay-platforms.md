@@ -12,5 +12,5 @@ media_subpath: '/posts/platforms'
 
 ### CODE TEST
 
-<button type="button" id="test" class="collapsible"><span class="bigText blueText">CLICK ME</span></button><span class="collcon">
+<button type="button" id="test" class="collapsible post-preview card h-100"><span class="bigText blueText">CLICK ME</span></button><span class="collcon">
 AND YOU WILL SEE MORE</span>
