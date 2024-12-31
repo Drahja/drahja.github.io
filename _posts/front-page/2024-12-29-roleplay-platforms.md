@@ -13,4 +13,4 @@ media_subpath: '/posts/platforms'
 ### CODE TEST
 
 <button type="button" id="test" class="collapsible"><span class="bigText blueText">CLICK ME</span></button><span class="collcon">
-<p>AND YOU WILL SEE MORE</p></span>
+AND YOU WILL SEE MORE</span>
